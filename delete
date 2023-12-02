@@ -1,0 +1,41 @@
+git rm background.gif
+git commit -m "Removed background.gif" 
+
+git rm favicon.io
+git commit -m "Removed favicon.io" 
+
+git rm greg.jpg
+git commit -m "Removed greg.jpg" 
+
+git rm gregthumb.jpg
+git commit -m "Removed gregthumb.jpg" 
+
+git rm heroguitar.jpg
+git commit -m "Removed heroguitar.jpg" 
+
+git rm herojobs.jpg
+git commit -m "Removed herojobs.jpg" 
+
+git rm heromugs.jpg
+git commit -m "heromugs.jpg" 
+
+git rm heroroad.jpg
+git commit -m "heroroad.jpg" 
+
+git rm javajamlogo.jpg
+git commit -m "javajam.jpg" 
+
+git rm melanie.jpg
+git commit -m "melanie.jpg" 
+
+git rm melaniethumb.jpg
+git commit -m "melaniethumb.jpg"
+
+git rm mugs.jpg
+git commit -m "mugs.jpg" 
+
+git rm me.png
+git commit -m "me.png" 
+
+git rm windingroad.jpg
+git commit -m "windingroad.jpg" 
